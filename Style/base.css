@@ -1,0 +1,16 @@
+h3 {
+	color: navajowhite;
+	font-family: "Times New Roman", Times, serif;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+
+div {
+  column-count: 2;
+}
+
+p {
+    text-align: center; 
+    background-color: navajowhite; 
